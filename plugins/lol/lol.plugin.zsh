@@ -16,6 +16,7 @@ alias gtfo='mv'
 
 alias hai='cd'
 alias plz='pwd'
+alias ownz='chown'
 
 alias inur='locate'
 
